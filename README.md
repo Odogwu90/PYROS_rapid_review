@@ -11,7 +11,7 @@ A rapid literature review produced for **PYROS** (PyNexus research channel).
 |------|-------------|--------|
 | 1 | Protocol | Draft written, awaiting review |
 | 2 | Project scaffold (folders, git, log templates) | Done |
-| 3 | Search strings per database | Not started |
+| 3 | Search strings per database | Done (search/search_strategy.md); searches to be run by reviewer |
 | 4 | Screening | Not started |
 | 5 | Data extraction | Not started |
 | 6 | Analysis in R | Not started |
