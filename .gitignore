@@ -1,0 +1,15 @@
+# Full-text PDFs (copyright); bibliographic exports are tracked
+extraction/pdf/
+*.pdf
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user
+
+# OS / editors
+.DS_Store
+Thumbs.db
+~$*
