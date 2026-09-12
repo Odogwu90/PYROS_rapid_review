@@ -24,7 +24,7 @@ Graphics style note: simple flat illustrations, one idea per screen, warm colour
 | We are PYROS, a research channel. We wanted to know whether experienced professionals who migrate and must start over feel more low, more hopeless, more worn down than recent graduates who migrate before their career has really begun. | PYROS logo. Text: **Established professional** versus **Recent graduate**. | Protocol section 2 |
 | Our idea was simple. If you have already built a career, an identity and an income, losing them hurts. If you never had them, there is nothing to lose yet, and the move can feel like a start rather than an interruption. | Two jars. One full, then tipped and emptied. One empty, then slowly filling. | Protocol section 1 |
 | So we did what researchers do. We searched the medical literature, read every study that fitted, pulled out the numbers, and let the evidence speak. Our full method, data and code are public, and the link is in the description. | Magnifying glass over a stack of papers. Text: **Method, data and code: link below.** | README |
-| One honest warning before we begin. This is a first, rapid look, using one database. More searching is planned. What we say today is what the evidence shows so far. | Text: **A rapid review. First results.** | Report header |
+| One honest warning before we begin. This is a rapid look, using one medical database, not a full systematic review. What we say today is what that evidence shows. | Text: **A rapid review.** | Report header |
 
 ## Scene 3. What we found first: the missing study (1:45 to 2:45)
 
@@ -100,7 +100,7 @@ Graphics style note: simple flat illustrations, one idea per screen, warm colour
 |---|---|---|
 | Now back to our question. Does the experienced professional suffer more than the recent graduate? | The split screen returns. | Review question |
 | Honestly: nobody has measured it. What the evidence does suggest is narrower. The danger is not being experienced. The danger is the time spent not working at your level. And it eases once you are. | The doctor from Scene 1 steps out of the taxi and walks toward a hospital door. | Report section 8 |
-| Whether a recent graduate passes through that time more easily is a fair guess. It is not yet a finding. We will keep searching, and we will update this video when the evidence changes. | Text: **A fair guess. Not yet a finding.** | Report section 8 |
+| Whether a recent graduate passes through that time more easily is a fair guess. It is not yet a finding. If researchers test it, we will update this video. | Text: **A fair guess. Not yet a finding.** | Report section 8 |
 
 ## Scene 9. Lived experience (11:00 to 11:40)
 
