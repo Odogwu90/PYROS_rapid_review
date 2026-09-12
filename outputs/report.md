@@ -1,6 +1,6 @@
 # Do skilled professionals who migrate and restart their careers show more depressive symptoms than recent graduates who migrate before establishing a career? A rapid review
 
-**Draft v0.1, 2026-09-12. PubMed only. PsycINFO, Google Scholar and citation chasing not yet run. One included record (S090) still awaiting full text.**
+**Version 1.0, 2026-09-12. Single database (PubMed). One record (S090) could not be retrieved and was left out by reviewer decision.**
 
 Reviewer and author: Dr. Okpara Onyedikachi Martins (MBBS, Nigeria; MSc Global Health, University of Bonn), for PYROS (PyNexus research channel).
 Drafting and analysis support: Claude (Anthropic), under the rules in `CLAUDE.md`. All study selection, data verification and conclusions are the reviewer's.
@@ -11,7 +11,7 @@ Every number in this report traces to a row in `extraction/extraction.csv` or `e
 
 ## Key messages
 
-1. **No published study we found directly compares established professionals with recent graduates who migrated.** The question this review set out to answer has not been tested in the literature retrieved from PubMed.
+1. **No published study we found directly compares established professionals with recent graduates who migrated.** The question this review set out to answer has not been tested in the literature we retrieved.
 2. **Skilled migrants who are working in their profession do not show more depressive symptoms than local colleagues.** Two nurse studies in Germany and Finland found no difference from native-born nurses (S039, S075), and among Korean immigrants in Toronto, professionals had the lowest symptom scores of four occupational groups (S107).
 3. **Losing status or working below one's qualification is where the risk appears.** Immigrants in the United States who fell three or more rungs in perceived social standing had three times the odds of a major depressive episode (S159). Among forced migrants, the group with far more people working below their qualifications had a higher proportion above the PHQ-9 cut-off (S172).
 4. **Getting professionals back into their field may help general mental health.** A six-month placement as assistant teachers for health-trained migrants in Norway improved general mental health and well-being, though not the anxiety-depression score, in a small pilot (S139).
@@ -25,7 +25,7 @@ Skilled migrants often cannot practise their original profession in the destinat
 
 The idea behind this review is that a professional who has already built a career, identity and income, and then loses them on migration, may be at greater risk of depressive symptoms than a recent graduate who migrates before those things exist and who may see migration as the start of a career rather than an interruption.
 
-Sourced statements are still needed on: (a) the size of skilled migration flows, (b) rates of deskilling among skilled migrants, (c) the association between migration and depressive symptoms, and (d) the role of occupational status in mental health. Each is `TODO-VERIFY` until a confirmed source is placed in `search/`.
+This report makes no numerical claims about the size of skilled migration or rates of deskilling, because no background source has been verified and placed in `search/`. Such claims would be `TODO-VERIFY`.
 
 ## 2. Review question
 
@@ -42,7 +42,7 @@ The full protocol (v0.2, approved 2026-09-12) is in `protocol/protocol.md`.
 - **Design.** Rapid review: single reviewer with AI-assisted drafting; no second human reviewer; no protocol registration.
 - **Eligibility.** Adults (18+); international migrants with tertiary qualifications, or a study reporting them as a subgroup; depressive symptoms measured with a validated scale or a clinical diagnosis; quantitative or mixed-methods designs (qualitative studies for secondary questions only); any country; published 2000 onwards; English. Exclusions: internal migrants, second-generation only, current students only, forced-migrant samples with no measure of prior profession, no validated depressive-symptom measure, reviews and commentaries.
 - **Migrant types.** *Professional*: worked 2 or more years in the qualified field before migration, or described as experiencing career restart, re-licensing or downgrading. *Recent graduate*: qualified 2 years or less before migration with no established career. *Mixed*: sample not separable.
-- **Search.** PubMed, run 2026-09-12 (`search/search_strategy.md`, `search/search_log.csv`); 215 records. PsycINFO and Google Scholar searches, grey literature and citation chasing are planned but not yet run.
+- **Search.** PubMed only, run 2026-09-12 (`search/search_strategy.md`, `search/search_log.csv`); 215 records. The reviewer decided on 2026-09-12 not to run further databases for this rapid review; the PsycINFO and Google Scholar strings remain in the search strategy for future use.
 - **Screening.** Title and abstract, then full text, with the exclusion criterion recorded for every excluded record (`screening/screening_log.csv`).
 - **Extraction.** One row per study per migrant group (`extraction/extraction.csv`); every value verified by the reviewer against the PDF page.
 - **Quality.** Five yes/no/unclear items (`extraction/quality.csv`): sampling representative; validated measure; migrant type clear; response rate 50% or higher; adjustment for age, sex and length of stay.
@@ -56,7 +56,7 @@ The full protocol (v0.2, approved 2026-09-12) is in `protocol/protocol.md`.
 | Screened at title and abstract | 215 |
 | Excluded at title and abstract | 200 |
 | Sought for full text | 15 |
-| Full text not yet obtained (S090, paywalled) | 1 |
+| Full text not retrievable (S090, paywalled; left out) | 1 |
 | Assessed at full text | 14 |
 | Excluded at full text | 7 |
 | Included in the quantitative synthesis | 7 studies (8 data rows; S172 reports two samples) |
@@ -189,8 +189,8 @@ Only S159 met four of the five items. Response rates were below 50% or unclear i
 ## 9. Limitations
 
 - Single reviewer with AI assistance; no second human screener or extractor.
-- PubMed only so far; PsycINFO, Google Scholar, grey literature and citation chasing are still to be run, and the PubMed yield (215 records) may be incomplete.
-- One record (S090) could not yet be retrieved.
+- Single database (PubMed, 215 records) by reviewer decision; relevant studies indexed elsewhere may have been missed.
+- One record (S090) could not be retrieved.
 - No study reported the two migrant types as groups; classification was inferred and is recorded as such.
 - Brief quality appraisal, not a full risk-of-bias tool.
 - Different scales and cut-offs prevent pooling; findings are descriptive.
@@ -228,4 +228,4 @@ Each recommendation states only what the studies support.
 - S117 (qualitative, secondary questions only). Loss et al. (2020). 'Wait and wait, that is the only thing they can say': a qualitative study exploring experiences of immigrated Syrian doctors applying for medical license in Germany. *BMC Health Serv Res*. PMID 32321507.
 - S199 (qualitative, secondary questions only). Taridashti et al. (2026). Health impacts of restrictive migration policies: a qualitative study of highly educated Iranian immigrants and international students in the U.S. *J Immigr Minor Health*. PMID 40790105.
 
-Background sources for section 1: `TODO-VERIFY` (none yet placed in `search/`).
+Background sources for section 1: none used (see section 1).

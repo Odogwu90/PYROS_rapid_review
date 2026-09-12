@@ -1,6 +1,6 @@
 # Solutions list: what helps skilled migrants who must restart their careers
 
-**Draft v0.1, 2026-09-12. Companion to `outputs/report.md`.**
+**Version 1.0, 2026-09-12. Companion to `outputs/report.md`.**
 
 Rules applied (CLAUDE.md rule 6): every evidence-based item below states only what the included studies support and names the study ID. Evidence strength is graded in plain words: *one small pilot*, *one cross-sectional study*, *two or more studies*. Items in the "Lived-experience advice" boxes are to be written by Dr. Okpara and are labelled as personal experience, not research findings.
 
@@ -57,19 +57,30 @@ What the evidence cannot yet say: no included study compared established profess
 
 ## Lived-experience advice
 
-*Written by Dr. Okpara Onyedikachi Martins from personal experience of migrating as a qualified doctor and retraining in global health. These are personal views, not findings of the review.*
+*Personal views of Dr. Okpara Onyedikachi Martins, who trained as a doctor in Nigeria and moved to Germany to study global health. These are not findings of the review. Draft prepared from the review results for Dr. Okpara to amend in his own words.*
 
 **For migrants:**
 
-- [to be added]
+- Your degree crossed the border with you. Your licence did not. Separate the two in your mind early, so that the paperwork does not become a verdict on your worth.
+- Do not wait for the licence to get near your profession. Volunteer, observe, assist, teach, translate. Being in the room, even unpaid, keeps you a doctor, an engineer, a nurse, in your own eyes.
+- Learn the language as if it were a clinical rotation: every day, with a target. It is the one investment that pays back in both work and peace of mind.
+- Keep one professional contact who treats you as a colleague. On the hard days, that person's voice matters more than any official letter.
+- If you find yourself saying "I give up, I do not know what to do", tell someone that same day. That sentence is a symptom, not a fact.
 
 **For employers and institutions:**
 
-- [to be added]
+- Answer the email. An unanswered application costs you nothing and costs the applicant weeks of doubt.
+- If you can offer only an observership, offer it. A door held half open is still a door.
+- Ask about their training before you ask about their accent or their headscarf.
+- Give a real contract when you can. A person on a three-month contract cannot plan a life.
 
 **For families:**
 
-- [to be added]
+- The person who arrived is the same person who left. Say it to them, because the new country may not.
+- Small recognitions carry weight: an access card, a first payslip, a child saying "my mother works at the university". Celebrate them.
+- If visits are blocked by visas, keep the daily call. Separation was one of the heaviest burdens people described.
+
+*[Dr. Okpara: add one specific moment from your own move here, if you wish. Everything above stays labelled as personal opinion.]*
 
 ---
 

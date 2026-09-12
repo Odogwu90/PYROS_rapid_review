@@ -1,6 +1,6 @@
 # Video script: "The doctor who drives a taxi"
 
-**Format:** narrator voice over graphics. **Target length:** 12 minutes (roughly 1,700 spoken words at a calm pace). **Draft v0.1, 2026-09-12.**
+**Format:** narrator voice over graphics. **Target length:** 12 minutes (roughly 1,700 spoken words at a calm pace). **Version 1.0, 2026-09-12.**
 
 Rules for this script (README and CLAUDE.md): plain language for a worldwide general audience; no jargon; no statistics, p-values or scale names on screen. Every fact spoken traces to a study in `extraction/extraction.csv` or a retained qualitative study; the source column is for the producer and is never shown on screen. Where the evidence is thin, the script says so.
 
@@ -106,7 +106,7 @@ Graphics style note: simple flat illustrations, one idea per screen, warm colour
 
 | Voice-over | On screen | Source |
 |---|---|---|
-| **[Segment to be written by Dr. Okpara Onyedikachi Martins in the first person. Suggested content: one moment from your own move from clinical medicine in Nigeria to global health in Germany, and one thing you wish someone had told you. Keep to about 100 words. On screen: label the segment "Personal experience, not research".]** | Text label: **Personal experience, not research.** Simple portrait illustration or a photo chosen by Dr. Okpara. | Lived experience, labelled |
+| *(Spoken by Dr. Okpara, or by the narrator quoting him.)* I trained as a doctor in Nigeria. I moved to Germany to study global health, and I know the waiting room in this video. It is not a place. It is a feeling: qualified, ready, and not allowed to start. **[Dr. Okpara: insert one real moment here, two or three sentences.]** What I wish someone had told me is this. The paperwork is slow, but it is not a judgement on you. Stay near your profession in any way you can. Learn the language like it is a rotation. And find one person who calls you colleague. That is what carried me. | Text label: **Personal experience, not research.** Simple portrait illustration or a photo chosen by Dr. Okpara. | Lived experience, labelled; drafted from the review results for Dr. Okpara to amend |
 
 ## Scene 10. Close (11:40 to 12:10)
 
