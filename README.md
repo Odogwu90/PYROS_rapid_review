@@ -16,8 +16,8 @@ A rapid literature review produced for **PYROS** (PyNexus research channel).
 | 5 | Data extraction | Done for 7 studies (8 rows) plus quality.csv; verified by reviewer 2026-09-12 |
 | 6 | Analysis in R | Done (analysis/run_analysis.R; outputs regenerated from extraction.csv); approved 2026-09-12 |
 | 7 | Report | Draft v0.1 approved 2026-09-12 (outputs/report.md); PubMed only |
-| 8 | Solutions list | In progress (outputs/solutions.md) |
-| 9 | Video script | Not started |
+| 8 | Solutions list | Draft v0.1 approved 2026-09-12 (outputs/solutions.md); lived-experience boxes to be filled by reviewer |
+| 9 | Video script | Next |
 
 ## Repository layout
 
