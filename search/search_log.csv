@@ -1,1 +1,2 @@
 date,database,interface,string_id,filters,n_results,export_file,notes
+2026-09-12,pubmed,pubmed.gov,single paste (pubmed_query_paste.txt),humans; 2000-01-01 to present (in query),215,pubmed_2026-09-12.txt,full export of 215 records confirmed 2026-09-12; first attempt captured 27 (3 pages) only

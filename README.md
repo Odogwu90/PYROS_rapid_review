@@ -12,7 +12,7 @@ A rapid literature review produced for **PYROS** (PyNexus research channel).
 | 1 | Protocol | Draft written, awaiting review |
 | 2 | Project scaffold (folders, git, log templates) | Done |
 | 3 | Search strings per database | Done (search/search_strategy.md); searches to be run by reviewer |
-| 4 | Screening | Not started |
+| 4 | Screening | Title/abstract stage done for PubMed (215 screened, 15 to full text, decisions approved by reviewer 2026-09-12); full-text stage awaiting PDFs |
 | 5 | Data extraction | Not started |
 | 6 | Analysis in R | Not started |
 | 7 | Report | Not started |
@@ -36,6 +36,10 @@ video/       script.md
 Once step 6 is complete: open `analysis/` as an RStudio project and run
 `run_analysis.R`. Every table and figure is regenerated from
 `extraction/extraction.csv`.
+
+## Audience
+
+The report is for the global health community; the video is for a general worldwide audience across PYROS social media channels. Plain language, no jargon, no statistics on screen.
 
 ## Outputs
 
