@@ -41,6 +41,10 @@ Once step 6 is complete: open `analysis/` as an RStudio project and run
 
 The report is for the global health community; the video is for a general worldwide audience across PYROS social media channels. Plain language, no jargon, no statistics on screen.
 
+## One-page version
+
+`docs/index.html` bundles the report, solutions list, video script, data tables and R code into a single web page (figures embedded). Open it in a browser, or enable GitHub Pages (Settings > Pages > branch main, folder /docs) to publish it.
+
 ## Outputs
 
 1. A research report with tables and figures, published on PYROS with its
