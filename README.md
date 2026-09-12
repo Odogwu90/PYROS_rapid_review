@@ -17,7 +17,7 @@ A rapid literature review produced for **PYROS** (PyNexus research channel).
 | 6 | Analysis in R | Done (analysis/run_analysis.R; outputs regenerated from extraction.csv); approved 2026-09-12 |
 | 7 | Report | Version 1.0 (outputs/report.md); single database |
 | 8 | Solutions list | Version 1.0 (outputs/solutions.md); lived-experience text drafted for reviewer amendment |
-| 9 | Video script | Version 1.0 (video/script.md, 12 min, narrator over graphics); Scene 9 drafted for reviewer amendment |
+| 9 | Video script and video | Script version 1.0 (video/script.md). Video built with video/build_video.py: 12 min 37 s, 1080p, synthetic narration, subtitles in video/pyros_video.srt. The MP4 is not tracked (regenerate with the script) |
 
 ## Repository layout
 

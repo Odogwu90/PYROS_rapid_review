@@ -13,3 +13,8 @@ extraction/pdf/
 .DS_Store
 Thumbs.db
 ~$*
+
+# Video build products (large; regenerate with video/build_video.py)
+video/build/
+*.mp4
+*.mp3
