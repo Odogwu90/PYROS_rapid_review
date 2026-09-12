@@ -19,8 +19,8 @@ OUT = ROOT / "video" / "reels"
 WORK = OUT / "work"
 W, H = 1080, 1920
 GAP = 0.45                # shorter pause between lines than the long video
-MAX_CONTENT = 55.5        # seconds of narration per reel; CTA adds about 4.5 s
-CTA_TEXT = "Watch the full story on YouTube. Search PYROS, the doctor who drives a taxi."
+MAX_CONTENT = 54.5        # seconds of narration per reel; CTA adds about 4.5 s
+CTA_TEXT = "Full story on YouTube. Search PYROS."
 
 # Reels: hook shown on screen for the first seconds, then script lines (1-based row numbers) in order.
 # Lines are added while the reel stays under MAX_CONTENT seconds; later lines are dropped if needed.
@@ -143,7 +143,8 @@ def main():
                 fc += "[v1]null[v]"
             inputs += ["-i", str(v1.BUILD / f"{i:03d}.mp3")]
             mp3_idx = 3 if k == 0 else 2
-            subprocess.run(["ffmpeg", "-y", "-v", "error", *inputs, "-filter_complex", fc, "-map", "[v]", "-map", f"{mp3_idx}:a",
+            if not out.exists():
+              subprocess.run(["ffmpeg", "-y", "-v", "error", *inputs, "-filter_complex", fc, "-map", "[v]", "-map", f"{mp3_idx}:a",
                             "-t", f"{dur:.3f}", "-af", f"apad=pad_dur={GAP}", "-shortest", "-c:v", "libx264", "-preset", "veryfast",
                             "-crf", "21", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-ar", "24000", str(out)], check=True)
             parts.append(out)
