@@ -1,0 +1,8 @@
+study_id,q1_sampling_representative,q2_validated_measure,q3_migrant_type_clear,q4_response_rate_ge50,q5_adjusted_age_sex_stay,notes
+S039,unclear,yes,unclear,no,no,"Convenience recruitment via homecare agencies; response 25.4%; PHQ-9; migrant nurses' experience not reported; unadjusted t-test comparison"
+S058,unclear,yes,yes,unclear,no,"Physicians in an integration training programme; response rate TODO-VERIFY; BDI; no comparative estimate so no adjustment applies"
+S075,unclear,unclear,unclear,no,unclear,"Random sample of native nurses; all licensed foreign-born nurses invited, 212/474 responded; 4 GHQ-12 items only; adjustment set TODO-VERIFY p.9"
+S107,unclear,yes,yes,unclear,unclear,"Sampling method for 1288 Korean immigrant workers TODO-VERIFY p.3; 16-item CES-D (authors note no diagnostic validity); occupation groups clear; regression adjusts for demographics, length of stay TODO-VERIFY"
+S139,no,yes,yes,unclear,yes,"Non-randomised pilot; recruitment via municipality and Caritas; 15/21 completed follow-up; HSCL-10; adjusted for age, gender, year of arrival, children"
+S159,yes,yes,no,yes,yes,"Nationally representative NLAAS; CIDI diagnosis; not classified by profession; weighted response 75.5% Latino and 65.6% Asian; adjusted for age, sex, duration of residence and more"
+S172,no,yes,unclear,unclear,no,"Online convenience sample via Facebook/Telegram; PHQ-9; highly educated but career stage not defined; response rate not reported; forward-selection regression without fixed age/sex/stay adjustment"

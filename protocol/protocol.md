@@ -257,7 +257,7 @@ income_loss; loss_of_status_identity; discrimination; language_barrier;
 social_isolation; family_separation; social_support (protective);
 length_of_stay; legal_status_insecurity; workplace_stress; age_at_migration;
 prior_mental_health; sense_of_coherence_or_resilience (protective);
-recognition_or_bridging_programme (protective); mentoring (protective).
+recognition_or_bridging_programme (protective); mentoring (protective); intention_to_return (added 2026-09-12 from S058, approved).
 
 ## 10. Quality appraisal
 

@@ -9,12 +9,12 @@ A rapid literature review produced for **PYROS** (PyNexus research channel).
 
 | Step | Description | Status |
 |------|-------------|--------|
-| 1 | Protocol | Draft written, awaiting review |
+| 1 | Protocol | v0.2 approved 2026-09-12 |
 | 2 | Project scaffold (folders, git, log templates) | Done |
 | 3 | Search strings per database | Done (search/search_strategy.md); searches to be run by reviewer |
-| 4 | Screening | Title/abstract stage done for PubMed (215 screened, 15 to full text, decisions approved by reviewer 2026-09-12); full-text stage awaiting PDFs |
-| 5 | Data extraction | Not started |
-| 6 | Analysis in R | Not started |
+| 4 | Screening | PubMed: 215 screened, 15 to full text, 7 included, 7 excluded, 1 pending (S090 PDF); decisions approved by reviewer 2026-09-12. PsycINFO and Google Scholar not yet run |
+| 5 | Data extraction | Done for 7 studies (8 rows) plus quality.csv; verified by reviewer 2026-09-12 |
+| 6 | Analysis in R | In progress |
 | 7 | Report | Not started |
 | 8 | Solutions list | Not started |
 | 9 | Video script | Not started |
