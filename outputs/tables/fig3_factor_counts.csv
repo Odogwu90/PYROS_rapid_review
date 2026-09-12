@@ -1,0 +1,14 @@
+factor,role,n_studies
+credential_non_recognition,Risk-increasing,1
+discrimination,Risk-increasing,1
+intention_to_return,Risk-increasing,1
+language_barrier,Risk-increasing,2
+length_of_stay,Risk-increasing,2
+loss_of_status_identity,Protective,1
+loss_of_status_identity,Risk-increasing,2
+mentoring,Protective,1
+occupational_downgrading,Risk-increasing,2
+recognition_or_bridging_programme,Protective,1
+social_support,Protective,1
+unemployment,Risk-increasing,2
+workplace_stress,Risk-increasing,3

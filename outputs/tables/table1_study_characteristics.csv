@@ -1,0 +1,9 @@
+study_id,authors,year,country,design,sample_size,migrant_type,measure,quality_flags
+S039,Schilgen et al.,2020,Germany,cross_sectional,105,professional,PHQ-9 >10,?/Y/?/N/N
+S058,Keskin et al.,2023,Turkey,cross_sectional,570,professional,BDI >=17 (moderate/severe),?/Y/Y/Y/N
+S075,Wesołowska et al.,2018,Finland,cross_sectional,209,professional,GHQ-12 anxiety/depression 4 items (1-4 scale; not full scale),?/?/?/N/N
+S107,Kim et al.,2019,Canada,cross_sectional,258,professional,CES-D 16-item (range 0-48; no cut-off used),N/Y/Y/?/?
+S139,Ahmed et al.,2025,Norway,intervention,21,professional,HSCL-10 anxiety/depression (standardised 0-1; raw >=1.85 clinical),N/Y/Y/?/Y
+S159,Nicklett and Burgard,2009,United States,cross_sectional,3056,mixed,CIDI DSM-IV major depressive episode in past 12 months (clinical diagnosis),Y/Y/N/Y/Y
+S172,Długosz and Yuzva,2026,Poland,cross_sectional,200,mixed,PHQ-9 >=10,N/Y/?/?/N
+S172,Długosz and Yuzva,2026,Serbia and other countries,cross_sectional,164,mixed,PHQ-9 >=10,N/Y/?/?/N

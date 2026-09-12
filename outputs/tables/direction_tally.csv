@@ -1,0 +1,9 @@
+study_id,migrant_type,comparator,h1_comparison,finding,direction_text
+S039,professional,native-born nurses,no (professional vs recent graduate not tested),no difference,no difference
+S058,professional,none,no (professional vs recent graduate not tested),no comparator,NA
+S075,professional,native-born nurses,no (professional vs recent graduate not tested),no difference,no difference
+S107,professional,other immigrant occupational groups,no (professional vs recent graduate not tested),professionals lower than comparator,professionals lowest of the four groups
+S139,professional,control group (before-after),no (professional vs recent graduate not tested),no difference,no change in anxiety/depression score; general mental health and well-being improved
+S159,mixed,immigrants with no change in social status,no (professional vs recent graduate not tested),more symptoms with status loss or underemployment,supports the status-loss pathway
+S172,mixed,the other forced-migrant sample,no (professional vs recent graduate not tested),more symptoms with status loss or underemployment,high symptoms with heavy underemployment
+S172,mixed,the other forced-migrant sample,no (professional vs recent graduate not tested),more symptoms with status loss or underemployment,qualification mismatch linked to more symptoms
