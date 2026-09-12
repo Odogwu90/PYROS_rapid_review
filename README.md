@@ -15,8 +15,8 @@ A rapid literature review produced for **PYROS** (PyNexus research channel).
 | 4 | Screening | PubMed: 215 screened, 15 to full text, 7 included, 7 excluded, 1 pending (S090 PDF); decisions approved by reviewer 2026-09-12. PsycINFO and Google Scholar not yet run |
 | 5 | Data extraction | Done for 7 studies (8 rows) plus quality.csv; verified by reviewer 2026-09-12 |
 | 6 | Analysis in R | Done (analysis/run_analysis.R; outputs regenerated from extraction.csv); approved 2026-09-12 |
-| 7 | Report | In progress (outputs/report.md) |
-| 8 | Solutions list | Not started |
+| 7 | Report | Draft v0.1 approved 2026-09-12 (outputs/report.md); PubMed only |
+| 8 | Solutions list | In progress (outputs/solutions.md) |
 | 9 | Video script | Not started |
 
 ## Repository layout
